@@ -27,8 +27,7 @@ export default function PropertyPage() {
       </div>
     );
   }
-  //yuyuiyiu
-
+  
   return (
     <div>
       <PropertyDetail property={property} />
