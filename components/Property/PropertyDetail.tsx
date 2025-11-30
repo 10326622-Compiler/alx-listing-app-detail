@@ -193,4 +193,4 @@ const PropertyDetail: React.FC<PropertyDetailProps> = ({ property }) => {
   );
 };
 
-export default PropertyDetail;
+export default PropertyDetail; 
